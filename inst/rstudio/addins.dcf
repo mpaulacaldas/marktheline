@@ -1,0 +1,4 @@
+Name: Mark Active Line
+Description: Marks the active line in the source editor.
+Binding: mark
+Interactive: false

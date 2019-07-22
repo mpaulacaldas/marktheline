@@ -10,3 +10,7 @@ Description: Addin. Marks the active line in the RStudio Source Editor.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    rstudioapi
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
