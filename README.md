@@ -8,7 +8,7 @@
 <!-- badges: end -->
 
 An addin package that mimics the (hidden) line marking shortcut
-available in the RStudio API and exposes it so it can be assigned to a
+available in the RStudio IDE and exposes it so it can be assigned to a
 new keyboard binding.
 
 Why would you do this? To prevent conflicts with the

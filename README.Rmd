@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-An addin package that mimics the (hidden) line marking shortcut available in the RStudio API and exposes it so it can be assigned to a new keyboard binding.
+An addin package that mimics the (hidden) line marking shortcut available in the RStudio IDE and exposes it so it can be assigned to a new keyboard binding.
 
 Why would you do this? To prevent conflicts with the `devtools::load_all()` shortcut that is associated to the same keyboard binding (e.g. `Ctrl+Shift+L`).
 
