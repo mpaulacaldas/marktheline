@@ -14,3 +14,5 @@ Imports:
     rstudioapi
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
+URL: https://github.com/mpaulacaldas/marktheline
+BugReports: https://github.com/mpaulacaldas/marktheline/issues
